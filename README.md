@@ -1,6 +1,6 @@
 # Proyek Analisis Data: E-Commerce Public Dataset
 
-Proyek akhir kelas **"Belajar Analisis Data dengan Python"** (Dicoding) menggunakan
+Proyek akhir kelas **"Fundamental Analisa Data"** (Dicoding) menggunakan
 Olist Brazilian E-Commerce Public Dataset.
 
 - **Nama:** Novia Dwi Cahyanti
